@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "FoxerSports",
+    "slug": "FoxerSports",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
