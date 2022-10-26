@@ -1,7 +1,8 @@
 {
   "expo": {
+    "owner":"daveronan90",
     "name": "FoxerSports",
-    "slug": "FoxerSports",
+    "slug": "foxersports",
     "version": "1.0.0",
     "assetBundlePatterns": [
       "**/*"
