@@ -1,11 +1,16 @@
 {
   "expo": {
-    "owner":"daveronan90",
+    "owner": "daveronan90",
     "name": "FoxerSports",
     "slug": "foxersports",
     "version": "1.0.0",
     "assetBundlePatterns": [
       "**/*"
-    ]
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "2f036cd5-9fa9-4ab4-aed7-df66a9eea1fa"
+      }
+    }
   }
 }
